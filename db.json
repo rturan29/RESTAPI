@@ -71,60 +71,58 @@
         },
         "success": "true"
     },
-    "BasicStats": {
-        "data": [
-            {
-                "value": 2,
-                "statName": "Xray",
-                "category": "ModelType"
-            },
-            {
-                "value": 3,
-                "statName": "Pathology",
-                "category": "ModelType"
-            },
-            {
-                "value": 2,
-                "statName": "Brain",
-                "category": "Anatomy"
-            },
-            {
-                "value": 1,
-                "statName": "Bone",
-                "category": "Anatomy"
-            },
-            {
-                "value": 4,
-                "statName": "Lung",
-                "category": "Anatomy"
-            },
-            {
-                "value": 2,
-                "statName": "Tensorflow",
-                "category": "Framework"
-            },
-            {
-                "value": 3,
-                "statName": "PyTorch",
-                "category": "Framework"
-            },
-            {
-                "value": 1,
-                "statName": "SelAI",
-                "category": "Vendor"
-            },
-            {
-                "value": 4,
-                "statName": "HealtyAI",
-                "category": "Vendor"
-            },
-            {
-                "value": 3,
-                "statName": "CureAI",
-                "category": "Vendor"
-            }
-        ]
-    },
+    "BasicStats": [
+        {
+            "value": 2,
+            "statName": "Xray",
+            "category": "ModelType"
+        },
+        {
+            "value": 3,
+            "statName": "Pathology",
+            "category": "ModelType"
+        },
+        {
+            "value": 2,
+            "statName": "Brain",
+            "category": "Anatomy"
+        },
+        {
+            "value": 1,
+            "statName": "Bone",
+            "category": "Anatomy"
+        },
+        {
+            "value": 4,
+            "statName": "Lung",
+            "category": "Anatomy"
+        },
+        {
+            "value": 2,
+            "statName": "Tensorflow",
+            "category": "Framework"
+        },
+        {
+            "value": 3,
+            "statName": "PyTorch",
+            "category": "Framework"
+        },
+        {
+            "value": 1,
+            "statName": "SelAI",
+            "category": "Vendor"
+        },
+        {
+            "value": 4,
+            "statName": "HealtyAI",
+            "category": "Vendor"
+        },
+        {
+            "value": 3,
+            "statName": "CureAI",
+            "category": "Vendor"
+        }
+    ],
     "Models": {
         "data": [
             {
