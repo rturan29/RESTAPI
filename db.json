@@ -123,36 +123,34 @@
             "category": "Vendor"
         }
     ],
-    "Models": {
-        "data": [
-            {
-                "model": "Microsoft",
-                "day": "Mon"
-            },
-            {
-                "model": "Medical Tech",
-                "day": "Tue"
-            },
-            {
-                "model": "Openai",
-                "day": "Wed"
-            },
-            {
-                "model": "",
-                "day": "Thu"
-            },
-            {
-                "model": "",
-                "day": "Fri"
-            },
-            {
-                "model": "",
-                "day": "Sat"
-            },
-            {
-                "model": "Skynet",
-                "day": "Sun"
-            }
-        ]
-    }
+    "Models": [
+        {
+            "model": "Microsoft",
+            "day": "Mon"
+        },
+        {
+            "model": "Medical Tech",
+            "day": "Tue"
+        },
+        {
+            "model": "Openai",
+            "day": "Wed"
+        },
+        {
+            "model": "",
+            "day": "Thu"
+        },
+        {
+            "model": "",
+            "day": "Fri"
+        },
+        {
+            "model": "",
+            "day": "Sat"
+        },
+        {
+            "model": "Skynet",
+            "day": "Sun"
+        }
+    ]
 }
