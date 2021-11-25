@@ -70,5 +70,91 @@
             "createdBy": 1
         },
         "success": "true"
+    },
+    "BasicStats": {
+        "data": [
+            {
+                "value": 2,
+                "statName": "Xray",
+                "category": "ModelType"
+            },
+            {
+                "value": 3,
+                "statName": "Pathology",
+                "category": "ModelType"
+            },
+            {
+                "value": 2,
+                "statName": "Brain",
+                "category": "Anatomy"
+            },
+            {
+                "value": 1,
+                "statName": "Bone",
+                "category": "Anatomy"
+            },
+            {
+                "value": 4,
+                "statName": "Lung",
+                "category": "Anatomy"
+            },
+            {
+                "value": 2,
+                "statName": "Tensorflow",
+                "category": "Framework"
+            },
+            {
+                "value": 3,
+                "statName": "PyTorch",
+                "category": "Framework"
+            },
+            {
+                "value": 1,
+                "statName": "SelAI",
+                "category": "Vendor"
+            },
+            {
+                "value": 4,
+                "statName": "HealtyAI",
+                "category": "Vendor"
+            },
+            {
+                "value": 3,
+                "statName": "CureAI",
+                "category": "Vendor"
+            }
+        ]
+    },
+    "Models": {
+        "data": [
+            {
+                "model": "Microsoft",
+                "day": "Mon"
+            },
+            {
+                "model": "Medical Tech",
+                "day": "Tue"
+            },
+            {
+                "model": "Openai",
+                "day": "Wed"
+            },
+            {
+                "model": "",
+                "day": "Thu"
+            },
+            {
+                "model": "",
+                "day": "Fri"
+            },
+            {
+                "model": "",
+                "day": "Sat"
+            },
+            {
+                "model": "Skynet",
+                "day": "Sun"
+            }
+        ]
     }
 }
