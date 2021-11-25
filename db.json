@@ -125,15 +125,15 @@
     ],
     "Models": [
         {
-            "model": "Microsoft",
+            "model": "5",
             "day": "Mon"
         },
         {
-            "model": "Medical Tech",
+            "model": "1",
             "day": "Tue"
         },
         {
-            "model": "Openai",
+            "model": "4",
             "day": "Wed"
         },
         {
@@ -149,7 +149,7 @@
             "day": "Sat"
         },
         {
-            "model": "Skynet",
+            "model": "3",
             "day": "Sun"
         }
     ]
