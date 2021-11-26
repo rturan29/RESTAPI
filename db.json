@@ -125,45 +125,38 @@
     ],
     "Models": [
         {
-            "name": "Microsoft",
-            "value": 1,
-            "label":"Mon",
+            "value": 5,
+            "name": "Mon",
             "color": "#2310FF"
         },
         {
-            "name": "Medical Tech",
-            "value": 2,
-            "label":"Tue",
+            "value": 1,
+            "name": "Tue",
             "color": "#F52121"
         },
         {
-            "name": "Openai",
-            "value": 3,
-            "label":"Wed",
+            "value": 4,
+            "name": "Wed",
             "color": "#FF38D3"
         },
         {
-            "name": "",
-            "value": 4,
-            "label":"Thu",
+            "value": 0,
+            "name": "Thu",
             "color": "#FFFFFF"
         },
         {
-            "name": "",
-            "value": 5,
-            "label":"Fri",
+            "value": 0,
+            "name": "Fri",
             "color": "#FFFFFF"
         },
         {
-            "name": "",
-            "value": 6,
-            "label":"Sat",
+            "value": 0,
+            "name": "Sat",
             "color": "#FFFFFF"
         },
         {
-            "name": "Skynet",
-            "value": 7,
-            "label":"Sun",
+            "value": 3,
+            "name": "Sun",
             "color": "#FF9110"
         }
     ]
