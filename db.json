@@ -125,31 +125,31 @@
     ],
     "Models": [
         {
-            "model": 5,
+            "value": 5,
             "name": "Mon"
         },
         {
-            "model": 1,
+            "value": 1,
             "name": "Tue"
         },
         {
-            "model": 4,
+            "value": 4,
             "name": "Wed"
         },
         {
-            "model": 0,
+            "value": 0,
             "name": "Thu"
         },
         {
-            "model": 0,
+            "value": 0,
             "name": "Fri"
         },
         {
-            "model": 0,
+            "value": 0,
             "name": "Sat"
         },
         {
-            "model": 3,
+            "value": 3,
             "name": "Sun"
         }
     ]
