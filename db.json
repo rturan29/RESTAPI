@@ -74,83 +74,83 @@
     "BasicStats": [
         {
             "value": 2,
-            "statName": "Xray",
+            "name": "Xray",
             "category": "ModelType"
         },
         {
             "value": 3,
-            "statName": "Pathology",
+            "name": "Pathology",
             "category": "ModelType"
         },
         {
             "value": 2,
-            "statName": "Brain",
+            "name": "Brain",
             "category": "Anatomy"
         },
         {
             "value": 1,
-            "statName": "Bone",
+            "name": "Bone",
             "category": "Anatomy"
         },
         {
             "value": 4,
-            "statName": "Lung",
+            "name": "Lung",
             "category": "Anatomy"
         },
         {
             "value": 2,
-            "statName": "Tensorflow",
+            "name": "Tensorflow",
             "category": "Framework"
         },
         {
             "value": 3,
-            "statName": "PyTorch",
+            "name": "PyTorch",
             "category": "Framework"
         },
         {
             "value": 1,
-            "statName": "SelAI",
+            "name": "SelAI",
             "category": "Vendor"
         },
         {
             "value": 4,
-            "statName": "HealtyAI",
+            "name": "HealtyAI",
             "category": "Vendor"
         },
         {
             "value": 3,
-            "statName": "CureAI",
+            "name": "CureAI",
             "category": "Vendor"
         }
     ],
     "Models": [
         {
             "model": 5,
-            "day": "Mon"
+            "name": "Mon"
         },
         {
             "model": 1,
-            "day": "Tue"
+            "name": "Tue"
         },
         {
             "model": 4,
-            "day": "Wed"
+            "name": "Wed"
         },
         {
             "model": 0,
-            "day": "Thu"
+            "name": "Thu"
         },
         {
             "model": 0,
-            "day": "Fri"
+            "name": "Fri"
         },
         {
             "model": 0,
-            "day": "Sat"
+            "name": "Sat"
         },
         {
             "model": 3,
-            "day": "Sun"
+            "name": "Sun"
         }
     ]
 }
