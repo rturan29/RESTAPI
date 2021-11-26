@@ -126,36 +126,43 @@
     "Models": [
         {
             "value": 5,
+            "label":"Microsoft",
             "name": "Mon",
             "color": "#2310FF"
         },
         {
             "value": 1,
+            "label":"Medical Tech",
             "name": "Tue",
             "color": "#F52121"
         },
         {
             "value": 4,
+            "label":"Openai",
             "name": "Wed",
             "color": "#FF38D3"
         },
         {
             "value": 0,
+            "label":"",
             "name": "Thu",
             "color": "#FFFFFF"
         },
         {
             "value": 0,
+            "label":"",
             "name": "Fri",
             "color": "#FFFFFF"
         },
         {
             "value": 0,
+            "label":"",
             "name": "Sat",
             "color": "#FFFFFF"
         },
         {
             "value": 3,
+            "label":"Skynet",
             "name": "Sun",
             "color": "#FF9110"
         }
