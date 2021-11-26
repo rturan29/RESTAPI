@@ -126,31 +126,38 @@
     "Models": [
         {
             "value": 5,
-            "name": "Mon"
+            "name": "Mon",
+            "color": "#2310FF"
         },
         {
             "value": 1,
-            "name": "Tue"
+            "name": "Tue",
+            "color": "#F52121"
         },
         {
             "value": 4,
-            "name": "Wed"
+            "name": "Wed",
+            "color": "#FF38D3"
         },
         {
             "value": 0,
-            "name": "Thu"
+            "name": "Thu",
+            "color": "#FFFFFF"
         },
         {
             "value": 0,
-            "name": "Fri"
+            "name": "Fri",
+            "color": "#FFFFFF"
         },
         {
             "value": 0,
-            "name": "Sat"
+            "name": "Sat",
+            "color": "#FFFFFF"
         },
         {
             "value": 3,
-            "name": "Sun"
+            "name": "Sun",
+            "color": "#FF9110"
         }
     ]
 }
