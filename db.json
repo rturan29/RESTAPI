@@ -136,64 +136,72 @@
     "Models": [
         {
             "value": 5,
-            "label":"Microsoft",
+            "label": "Microsoft",
             "name": "Mon",
             "color": "#2310FF"
         },
         {
             "value": 1,
-            "label":"Medical Tech",
+            "label": "Medical Tech",
             "name": "Tue",
             "color": "#F52121"
         },
         {
             "value": 4,
-            "label":"Openai",
+            "label": "Openai",
             "name": "Wed",
             "color": "#FF38D3"
         },
         {
             "value": null,
-            "label":"",
+            "label": "",
             "name": "Thu",
             "color": "#FFFFFF"
         },
         {
             "value": null,
-            "label":"",
+            "label": "",
             "name": "Fri",
             "color": "#FFFFFF"
         },
         {
             "value": null,
-            "label":"",
+            "label": "",
             "name": "Sat",
             "color": "#FFFFFF"
         },
         {
             "value": 3,
-            "label":"Skynet",
+            "label": "Skynet",
             "name": "Sun",
             "color": "#FF9110"
         }
     ],
-    "DataSet":[
+    "DataSet": [
         {
-            "value":4,
-            "name":"MRI",
-            "color": "#503795" 
-        },        {
-            "value":4,
-            "name":"CT",
-            "color": "#E289F2" 
-        },        {
-            "value":4,
-            "name":"WSI",
-            "color": "#ACB9FF" 
-        },        {
-            "value":6,
-            "name":"Xray",
-            "color": "#855CF8" 
+            "value": 4,
+            "name": "MRI",
+            "color": "#503795"
+        },
+        {
+            "value": 4,
+            "name": "CT",
+            "color": "#E289F2"
+        },
+        {
+            "value": 4,
+            "name": "WSI",
+            "color": "#ACB9FF"
+        },
+        {
+            "value": 6,
+            "name": "Xray",
+            "color": "#855CF8"
+        },
+        {
+            "value": 0,
+            "name": "Xray",
+            "color": ""
         }
     ]
 }
