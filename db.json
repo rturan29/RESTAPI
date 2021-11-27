@@ -143,19 +143,19 @@
             "color": "#FF38D3"
         },
         {
-            "value": 0,
+            "value": null,
             "label":"",
             "name": "Thu",
             "color": "#FFFFFF"
         },
         {
-            "value": 0,
+            "value": null,
             "label":"",
             "name": "Fri",
             "color": "#FFFFFF"
         },
         {
-            "value": 0,
+            "value": null,
             "label":"",
             "name": "Sat",
             "color": "#FFFFFF"
