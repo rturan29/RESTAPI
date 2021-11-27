@@ -75,52 +75,62 @@
         {
             "value": 2,
             "name": "Xray",
-            "category": "ModelType"
+            "category": "ModelType",
+            "color": "#2CD7C4"
         },
         {
             "value": 3,
             "name": "Pathology",
-            "category": "ModelType"
+            "category": "ModelType",
+            "color": "#2CD7C4"
         },
         {
             "value": 2,
             "name": "Brain",
-            "category": "Anatomy"
+            "category": "Anatomy",
+            "color": "#FEDF9A"
         },
         {
             "value": 1,
             "name": "Bone",
-            "category": "Anatomy"
+            "category": "Anatomy",
+            "color": "#FEDF9A"
         },
         {
             "value": 4,
             "name": "Lung",
-            "category": "Anatomy"
+            "category": "Anatomy",
+            "color": "#FEDF9A"
         },
         {
             "value": 2,
             "name": "Tensorflow",
-            "category": "Framework"
+            "category": "Framework",
+            "color": "#E289F2"
         },
         {
             "value": 3,
             "name": "PyTorch",
-            "category": "Framework"
+            "category": "Framework",
+            "color": "#E289F2"
         },
         {
             "value": 1,
             "name": "SelAI",
-            "category": "Vendor"
+            "category": "Vendor",
+            "color": "#855CF8"
         },
         {
             "value": 4,
             "name": "HealtyAI",
-            "category": "Vendor"
+            "category": "Vendor",
+            "color": "#855CF8"
         },
         {
             "value": 3,
             "name": "CureAI",
-            "category": "Vendor"
+            "category": "Vendor",
+            "color": "#855CF8"
         }
     ],
     "Models": [
@@ -165,6 +175,25 @@
             "label":"Skynet",
             "name": "Sun",
             "color": "#FF9110"
+        }
+    ],
+    "DataSet":[
+        {
+            "value":4,
+            "name":"MRI",
+            "color": "#503795" 
+        },        {
+            "value":4,
+            "name":"CT",
+            "color": "#E289F2" 
+        },        {
+            "value":4,
+            "name":"WSI",
+            "color": "#ACB9FF" 
+        },        {
+            "value":6,
+            "name":"Xray",
+            "color": "#855CF8" 
         }
     ]
 }
