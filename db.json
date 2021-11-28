@@ -182,25 +182,29 @@
             "value": 4,
             "name": "MRI",
             "color": "#503795",
-            "shadowValue":6
+            "shadowValue":6,
+            "r":105
         },
         {
             "value": 4,
             "name": "CT",
             "color": "#E289F2",
-            "shadowValue":6
+            "shadowValue":6,
+            "r":110
         },
         {
             "value": 4,
             "name": "WSI",
             "color": "#ACB9FF",
-            "shadowValue":6
+            "shadowValue":6,
+            "r":120
         },
         {
             "value": 6,
             "name": "Xray",
             "color": "#855CF8",
-            "shadowValue":4
+            "shadowValue":4,
+            "r":130
         }
     ]
 }
