@@ -183,14 +183,14 @@
             "name": "MRI",
             "color": "#503795",
             "shadowValue":6,
-            "r":110
+            "r":100
         },
         {
             "value": 4,
             "name": "CT",
             "color": "#E289F2",
             "shadowValue":6,
-            "r":115
+            "r":110
         },
         {
             "value": 4,
