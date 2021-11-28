@@ -179,11 +179,18 @@
     ],
     "DataSet": [
         {
+            "value": 6,
+            "name": "Xray",
+            "color": "#855CF8",
+            "shadowValue":4,
+            "r":125
+        },
+        {
             "value": 4,
-            "name": "MRI",
-            "color": "#503795",
+            "name": "WSI",
+            "color": "#ACB9FF",
             "shadowValue":6,
-            "r":100
+            "r":120
         },
         {
             "value": 4,
@@ -194,17 +201,10 @@
         },
         {
             "value": 4,
-            "name": "WSI",
-            "color": "#ACB9FF",
+            "name": "MRI",
+            "color": "#503795",
             "shadowValue":6,
-            "r":120
-        },
-        {
-            "value": 6,
-            "name": "Xray",
-            "color": "#855CF8",
-            "shadowValue":4,
-            "r":125
-        }
+            "r":100
+        }        
     ]
 }
